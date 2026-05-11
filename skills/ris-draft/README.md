@@ -1,12 +1,12 @@
 # Ris Draft Skill
 
-Generates a single self-contained HTML page with a technical diagram in flat engineering blueprint style — printed spec sheet aesthetic, not marketing landing.
+Generates a single HTML page with a technical diagram in flat engineering blueprint style — printed spec sheet aesthetic, not marketing landing.
 
 ## What it does
 
-Tell the agent "draw me a system architecture" — get one `.html` file that opens in any browser and looks like a printed engineering doc: black-and-white outlines, monospace labels, no shadows or gradients, no internet dependencies.
+Tell the agent "draw me a system architecture" — get one `.html` file that opens in any browser and looks like a printed engineering doc: black-and-white outlines, monospace labels, no shadows or gradients.
 
-No external fonts, no CDN — works fully offline.
+**Stack:** Tailwind v4 via `@tailwindcss/browser` CDN (utilities + design tokens) and D3 v7 via jsDelivr CDN (SVG diagrams). System fonts only — no Google Fonts.
 
 ## When to use
 
@@ -22,7 +22,7 @@ Not for:
 
 ## Output
 
-One file (e.g. `diagram.html`) — opens in any browser, exportable to PDF, embeddable in slides as iframe or screenshot.
+One file (e.g. `diagram.html`) — opens in any modern browser with internet access (to fetch Tailwind + D3 CDNs once); exportable to PDF, embeddable in slides as iframe or screenshot.
 
 Contents:
 - Title + UPPERCASE subtitle (mono)
@@ -61,9 +61,9 @@ The agent will:
 - Flat: no shadows, gradients, glassmorphism, blur
 - Outlined: 1-2px solid borders define structure
 - Monochrome: black + gray + one semantic accent (e.g. red for error) used sparingly
-- System fonts only: no Google Fonts, no CDN
-- All CSS inline: one `<style>` block in head, no separate files
-- No JS: only if explicitly requested
+- System fonts only: no Google Fonts (Tailwind + D3 CDNs are the only network deps)
+- Design tokens declared once in a `@theme` block; Tailwind utility classes do the rest
+- D3 for SVG diagrams (nodes, connectors, layouts) — static by default, interactivity only on explicit request
 
 ## See also
 

@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Skill README illustrations for every published skill, using deliberately clumsy MS Paint-style generated assets.
 
+### Changed
+- Renamed **ris-draft** to **html-draft** across skill folder, docs, and invocation examples.
+
 ## [1.20.0] - 2026-06-01
 
 ### Added

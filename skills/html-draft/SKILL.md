@@ -1,9 +1,9 @@
 ---
-name: ris-draft
-description: Use when user wants a standalone HTML diagram in flat engineering blueprint style — architecture diagrams, system flows, technical spec sheets, component maps. Generates one HTML file using Tailwind v4 (browser CDN) for layout and D3 v7 (CDN) for SVG diagrams. User-invoked only — do NOT auto-trigger. Triggers on "/ris-draft", "сделай blueprint", "технический чертёж", "архитектурная схема", "инженерная схема", "blueprint diagram", "engineering blueprint", "technical spec sheet", "architecture diagram", "system flow diagram".
+name: html-draft
+description: Use when user wants a standalone HTML diagram in flat engineering blueprint style — architecture diagrams, system flows, technical spec sheets, component maps. Generates one HTML file using Tailwind v4 (browser CDN) for layout and D3 v7 (CDN) for SVG diagrams. User-invoked only — do NOT auto-trigger. Triggers on "/html-draft", "сделай blueprint", "технический чертёж", "архитектурная схема", "инженерная схема", "blueprint diagram", "engineering blueprint", "technical spec sheet", "architecture diagram", "system flow diagram".
 ---
 
-# ris-draft — Flat Engineering Blueprint Diagrams
+# html-draft — Flat Engineering Blueprint Diagrams
 
 Generate one HTML page that renders a technical diagram in a strict flat-blueprint aesthetic — the look of a printed engineering specification sheet, not a marketing landing.
 

@@ -26,7 +26,7 @@
 | [readme-generator](./skills/readme-generator/) | Человеко-ориентированные README с правильной структурой |
 | [ris-manager](./skills/ris-manager/) | Двусторонний мост между текущей сессией и GitHub Issues |
 | [ris-prioritize](./skills/ris-prioritize/) | Ранжирование бэклогов через RICE, ICE, MoSCoW или Kano |
-| [ris-draft](./skills/ris-draft/) | Одна HTML-диаграмма в стиле плоского инженерного чертежа — архитектура, потоки, spec sheets |
+| [html-draft](./skills/html-draft/) | Одна HTML-диаграмма в стиле плоского инженерного чертежа — архитектура, потоки, spec sheets |
 | [tg-bot-ops](./skills/tg-bot-ops/) | Переиспользуемый операционный плейбук для Telegram-ботов и Telegram-to-agent gateways |
 
 ### Дизайн и медиа
@@ -35,7 +35,7 @@
 |-------|--------------------|
 | [art-director](./skills/art-director/) | Итеративный art direction, поиск визуального стиля, ветки генерации и графы решений |
 | [design-minimal](./skills/design-minimal/) | Читаемые standalone HTML-страницы: дашборды, брифы, раздатки, операционные карты, отчёты |
-| [ris-draft](./skills/ris-draft/) | Технические диаграммы в стиле плоского инженерного чертежа: архитектура, system flows, spec sheets |
+| [html-draft](./skills/html-draft/) | Технические диаграммы в стиле плоского инженерного чертежа: архитектура, system flows, spec sheets |
 
 ### Telegram
 

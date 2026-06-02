@@ -1,4 +1,4 @@
-# Ris Draft Skill
+# HTML Draft Skill
 
 ![Skill illustration](assets/illustration.png)
 
@@ -36,7 +36,7 @@ Contents:
 ## Installation
 
 ```bash
-cp -r skills/ris-draft ~/.claude/skills/
+cp -r skills/html-draft ~/.claude/skills/
 ```
 
 The skill is then available in Claude Code.
@@ -51,7 +51,7 @@ Or:
 
 > "Make a technical spec sheet for the weekly digest pipeline"
 
-Or use the slash command: `/ris-draft`
+Or use the slash command: `/html-draft`
 
 The agent will:
 1. Ask 1-2 clarifying questions if input is incomplete (diagram type, node list)

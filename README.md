@@ -28,7 +28,7 @@ A collection of customizations, scripts, and workflows for [Claude Code](https:/
 | [readme-generator](./skills/readme-generator/) | Human-focused README files with proper structure |
 | [ris-manager](./skills/ris-manager/) | Bidirectional bridge between the current session and GitHub Issues |
 | [ris-prioritize](./skills/ris-prioritize/) | Rank backlogs with RICE, ICE, MoSCoW, or Kano and produce a decision log |
-| [ris-draft](./skills/ris-draft/) | One self-contained HTML diagram in flat engineering blueprint style — architecture, flows, spec sheets |
+| [html-draft](./skills/html-draft/) | One self-contained HTML diagram in flat engineering blueprint style — architecture, flows, spec sheets |
 | [tg-bot-ops](./skills/tg-bot-ops/) | Reusable operations playbook for Telegram bots and Telegram-to-agent gateways |
 
 ### Design and Media Skills
@@ -37,7 +37,7 @@ A collection of customizations, scripts, and workflows for [Claude Code](https:/
 |-------|----------|
 | [art-director](./skills/art-director/) | Iterative art direction, visual style search, generation branches, and decision graphs |
 | [design-minimal](./skills/design-minimal/) | Reading-first standalone HTML pages: dashboards, briefs, handouts, operating maps, reports |
-| [ris-draft](./skills/ris-draft/) | Technical diagrams in flat engineering blueprint style: architecture, system flows, spec sheets |
+| [html-draft](./skills/html-draft/) | Technical diagrams in flat engineering blueprint style: architecture, system flows, spec sheets |
 
 ### Telegram
 

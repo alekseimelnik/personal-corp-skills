@@ -1,4 +1,4 @@
-# Ris Draft Skill
+# HTML Draft Skill
 
 ![Иллюстрация скилла](assets/illustration.png)
 
@@ -36,7 +36,7 @@
 ## Установка
 
 ```bash
-cp -r skills/ris-draft ~/.claude/skills/
+cp -r skills/html-draft ~/.claude/skills/
 ```
 
 После этого скилл доступен в Claude Code.
@@ -51,7 +51,7 @@ cp -r skills/ris-draft ~/.claude/skills/
 
 > «Сделай технический чертёж pipeline для еженедельного дайджеста»
 
-Или явно через slash-команду: `/ris-draft`
+Или явно через slash-команду: `/html-draft`
 
 Агент:
 1. Если описание неполное — задаст 1-2 уточняющих вопроса (тип диаграммы, список узлов)

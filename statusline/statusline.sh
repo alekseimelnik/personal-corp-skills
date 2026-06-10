@@ -89,9 +89,9 @@ sep=" ${dim}•${rst} "
 
 # Branch shown only when it's something non-default — main/master is noise
 if [ -n "$branch" ] && [ "$branch" != "main" ] && [ "$branch" != "master" ]; then
-    out="\033[34m${dir_name}${rst} ${dim}${branch}${rst}"
+    out="${dim}${dir_name} ${branch}${rst}"
 else
-    out="\033[34m${dir_name}${rst}"
+    out="${dim}${dir_name}${rst}"
 fi
 out="${out}${sep}${dim}${model}${rst}"
 

@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - **idea** skill — fast capture of a single voiced idea into a provenance-tracked folder (one folder per idea) with semantic dedup against an index and an optional GitHub Project mirror; bilingual READMEs.
+- **parallel-design-variants** skill — parallel design bake-off: one spec doc fans out N divergent directions (each anchored to a distinct visual reference) to subagents in parallel, collects them in a gallery, picks winners (optionally by audience vote), then runs a second round that mixes the winning styles; bilingual READMEs.
 
 ## [2.1.1] - 2026-06-17
 

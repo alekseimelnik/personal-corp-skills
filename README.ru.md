@@ -78,6 +78,7 @@ Use Personal Corp skills to plan my week.
 | [pm-metrics](./skills/pm-metrics/) | Ревью продуктовых метрик, воронка/retention, OKR alignment |
 | [pm-roadmap](./skills/pm-roadmap/) | Обновление roadmap Now/Next/Later с атрибуцией задержек |
 | [html-draft](./skills/html-draft/) | Одна HTML-диаграмма в стиле плоского инженерного чертежа — архитектура, потоки, spec sheets |
+| [parallel-design-variants](./skills/parallel-design-variants/) | Параллельный design bake-off: N разных направлений через субагентов, галерея, голосование, потом микс победителей |
 | [tg-bot-ops](./skills/tg-bot-ops/) | Переиспользуемый операционный плейбук для Telegram-ботов и Telegram-to-agent gateways |
 
 ### Дизайн и медиа
@@ -87,6 +88,7 @@ Use Personal Corp skills to plan my week.
 | [art-director](./skills/art-director/) | Итеративный art direction, поиск визуального стиля, ветки генерации и графы решений |
 | [design-minimal](./skills/design-minimal/) | Читаемые standalone HTML-страницы: дашборды, брифы, раздатки, операционные карты, отчёты |
 | [html-draft](./skills/html-draft/) | Технические диаграммы в стиле плоского инженерного чертежа: архитектура, system flows, spec sheets |
+| [parallel-design-variants](./skills/parallel-design-variants/) | Несколько по-настоящему разных дизайн-направлений на выбор — редизайн, hero, лендинг, обложка; лайв-bake-off с голосованием |
 
 ### Продуктовые скиллы
 

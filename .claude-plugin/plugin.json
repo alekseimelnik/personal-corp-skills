@@ -1,7 +1,7 @@
 {
   "name": "personal-corp-skills",
   "description": "Personal Corp framework: run your business with AI agents through GitHub, department repos, Telegram, agent gateways, html-draft diagrams, and media/art-direction workflows",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "author": {
     "name": "Sereja Ris",
     "email": "ris@sereja.tech",

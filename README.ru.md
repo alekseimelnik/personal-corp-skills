@@ -79,6 +79,8 @@ Use Personal Corp skills to plan my week.
 | [pm-roadmap](./skills/pm-roadmap/) | Обновление roadmap Now/Next/Later с атрибуцией задержек |
 | [html-draft](./skills/html-draft/) | Одна HTML-диаграмма в стиле плоского инженерного чертежа — архитектура, потоки, spec sheets |
 | [parallel-design-variants](./skills/parallel-design-variants/) | Параллельный design bake-off: N разных направлений через субагентов, галерея, голосование, потом микс победителей |
+| [fable-ruki-agenty](./skills/fable-ruki-agenty/) | Ручной режим оркестрации: Fable пишет самодостаточные спеки в тела GH issues и раздаёт готовые задачи субагентам на Sonnet; сам код не пишет |
+| [grill-me](./skills/grill-me/) | Безжалостное интервью по плану, по одному вопросу за раз, до общего понимания; каждая развилка — явное решение с рекомендацией |
 | [tg-bot-ops](./skills/tg-bot-ops/) | Переиспользуемый операционный плейбук для Telegram-ботов и Telegram-to-agent gateways |
 
 ### Дизайн и медиа
